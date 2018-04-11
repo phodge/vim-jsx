@@ -175,6 +175,7 @@ endif
   syn keyword jsxHtmlTagName contained caption col colgroup table tbody td tfoot th thead tr
   syn keyword jsxHtmlTagName contained button datalist fieldset form input keygen label legend meter optgroup option output progress select
   syn keyword jsxHtmlTagName contained details dialog menu menuitem summary
+  syn keyword jsxHtmlTagName contained img
   " NOTE: deprecated
   syn keyword jsxHtmlTagName contained acronym applet basefont big blink center dir frame frameset isindex listing noembed plaintext spacer strike tt xmp
   hi! link jsxHtmlTagName Keyword
